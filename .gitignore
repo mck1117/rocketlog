@@ -172,3 +172,9 @@ UpgradeLog*.htm
 
 # Microsoft Fakes
 FakesAssemblies/
+
+# VisualMicro Temp Stuff
+Compile.vmps.xml
+Configuration.Debug.vmps.xml
+Configuration.Release.vmps.xml
+Upload.vmps.xml
